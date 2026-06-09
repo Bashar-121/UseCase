@@ -1,6 +1,6 @@
 # UseCase
 
-Classification system that predicts the **direction of RPK  growth** for airline flights — categorized as **Down**, **Flat**, or **Up** — using historical flight  data.
+Classification models that predicts the **direction of RPK  growth** for airline flights — categorized as **Down**, **Flat**, or **Up** — using historical flight  data.
 
 ---
 

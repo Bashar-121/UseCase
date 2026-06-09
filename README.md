@@ -109,5 +109,5 @@ Total bookings (`TOTBKD`), load factor (`PLF`), and the flight identifier (`FLTN
 
 
 )
-# Returns: predicted class (down/flat/up) + probability vector
+
 ```
